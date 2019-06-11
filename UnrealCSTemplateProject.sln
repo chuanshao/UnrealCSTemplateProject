@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnrealVSIXProject", "UnrealVSIXProject\UnrealVSIXProject.csproj", "{703B457A-CE89-432F-A9DE-885DE1606C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnrealActorComponentTemplate", "UnrealActorComponentTemplate\UnrealActorComponentTemplate.csproj", "{919BC4E2-3131-4DFE-BFC7-60C1C1A7FF38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnrealActorTemplate", "UnrealActorTemplate\UnrealActorTemplate.csproj", "{761BAC20-4BC4-48D6-826D-47DD843F7C2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703B457A-CE89-432F-A9DE-885DE1606C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703B457A-CE89-432F-A9DE-885DE1606C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703B457A-CE89-432F-A9DE-885DE1606C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703B457A-CE89-432F-A9DE-885DE1606C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919BC4E2-3131-4DFE-BFC7-60C1C1A7FF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919BC4E2-3131-4DFE-BFC7-60C1C1A7FF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919BC4E2-3131-4DFE-BFC7-60C1C1A7FF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919BC4E2-3131-4DFE-BFC7-60C1C1A7FF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761BAC20-4BC4-48D6-826D-47DD843F7C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761BAC20-4BC4-48D6-826D-47DD843F7C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761BAC20-4BC4-48D6-826D-47DD843F7C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761BAC20-4BC4-48D6-826D-47DD843F7C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41E644D-6FA5-46D6-9972-13DEE617F246}
+	EndGlobalSection
+EndGlobal
